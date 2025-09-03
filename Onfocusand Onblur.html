@@ -1,0 +1,29 @@
+<html>
+<head>
+
+<input type="text" id="tf1">
+<input type="text" id="tf2">
+
+<script language="javascript" type="text/javascript">
+   var f1=document.getElementById("tf1");
+   f1.onfocus=focus;
+   f1.onblur=blur;
+   
+   var f2=document.getElementById("tf2");
+   f2.onfocus=focus;
+   f2.onblur=blur;
+   f1.focus();
+   function focus()
+   {
+   this.value="In focus";
+   }
+   function blur()
+   {
+   this.value="focus lost";
+   }
+   
+
+
+ </script>
+</head>
+</html>

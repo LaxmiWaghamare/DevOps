@@ -1,0 +1,89 @@
+{
+  "question": [
+    "Q1. Who developed Python Programming Language?",
+    "Q2. Which type of Programming does Python support? ",
+    "Q3. Is Python case sensitive when dealing with identifiers?",
+    "Q4.  Which of the following is the correct extension of the Python file?",
+    "Q5. Is Python code compiled or interpreted?",
+    "Q6. All keywords in Python are in _________",
+    "Q7. Which of the following is the use of id() function in python?",
+    "Q8. Which of the following is used to define a block of code in Python language?",
+    "Q9. Which keyword is used for function in Python language?",
+    "Q10. Which of the following character is used to give single-line comments in Python?"
+
+  ],
+  "answer": [
+    3,
+    4,
+    2,
+    3,
+    1,
+    4,
+    2,
+    1,
+    2,
+    2
+    
+  ],
+  "options": [
+
+    ["Wick van Rossum",
+      "Rasmus Lerdorf",
+       "Guido van Rossum",
+        "Niene Stom"
+    ],
+    ["object-oriented programming",
+      "structured programming",
+      "functional programming",
+      "all of the mentioned"
+    ],
+    [ "no",
+      "yes",
+      "machine dependent",
+      "none of the mentioned"
+  
+    ],
+    [ ".python",
+      ".pl",
+      ".py",
+      ".p"
+    ],
+    [
+     " Python code is both compiled and interpreted",
+      "Python code is neither compiled nor interpreted",
+      "Python code is only compiled",
+      "Python code is only interpreted"
+    ],
+    [
+      "Capitalized",
+      "lower case",
+      "UPPER CASE",
+      "None of the mentioned"
+    ],
+    [
+      "Every object does not have a unique id",
+      "Id returns the identity of the object",
+       " All of the mentioned",
+       "None of the mentioned"
+    ],
+    [
+      "Indentation",
+      "Key",
+      "Brackets",
+      "All of the mentioned"
+
+    ],
+    [
+      "Function",
+      "def",
+      "Fun",
+      "Define"
+    ],
+    [
+      "//",
+      "#",
+      "/*",
+      "!"
+    ]
+  ]
+}
